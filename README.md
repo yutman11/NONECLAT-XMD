@@ -1,1 +1,1 @@
-simple js bot
+pairing code https://noneclat-xmd.onrender.com
