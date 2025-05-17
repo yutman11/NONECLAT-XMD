@@ -3,7 +3,7 @@ https://dashboard.heroku.com/new?template=https://github.com/yutman11/NONECLAT-X
 
 
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2016%2F06%2F23%2Farts%2Fmusic%2Fkodak-black-lil-big-pac-mixtape-review.html&psig=AOvVaw0bRxtf2ijkMt5VkJIr4IJD&ust=1747597083200000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjv3tWgq40DFQAAAAAdAAAAABAE'/></a>
 
 <img alt="lord joel" height=250
 width=350
