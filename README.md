@@ -1,4 +1,4 @@
-session id generator https://noneclat-xmd.onrender.com/
+session id generator (https://noneclat-xmd-2.onrender.com)
 https://dashboard.heroku.com/new?template=https://github.com/yutman11/NONECLAT-XMD.git
 
 
@@ -42,7 +42,7 @@ src="https://files.catbox.moe/kstlqj.jpg"/>
 
 
 
-<a href='https://noneclat-xmd.onrender.com/' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://noneclat-xmd-2.onrender.com' target="_blank"><img alt='joel' src='https://img.shields.io/badge/PAIR CODE-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
  
