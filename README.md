@@ -7,7 +7,7 @@ https://dashboard.heroku.com/new?template=https://github.com/yutman11/NONECLAT-X
 
 <img alt="lord joel" height=250
 width=350
-src="https://files.catbox.moe/oyefhv.png"/>
+src="https://files.catbox.moe/4xw54q.png"/>
 
 
 
