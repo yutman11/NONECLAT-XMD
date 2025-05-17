@@ -3,7 +3,6 @@ https://dashboard.heroku.com/new?template=https://github.com/yutman11/NONECLAT-X
 
 
 
-<a><img src=''/></a>
 
 <img alt="lord joel" height=250
 width=350
