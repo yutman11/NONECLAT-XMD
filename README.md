@@ -3,7 +3,7 @@ https://dashboard.heroku.com/new?template=https://github.com/yutman11/NONECLAT-X
 
 
 
-<a><img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.nytimes.com%2F2016%2F06%2F23%2Farts%2Fmusic%2Fkodak-black-lil-big-pac-mixtape-review.html&psig=AOvVaw0bRxtf2ijkMt5VkJIr4IJD&ust=1747597083200000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMjv3tWgq40DFQAAAAAdAAAAABAE'/></a>
+<a><img src=''/></a>
 
 <img alt="lord joel" height=250
 width=350
@@ -26,7 +26,7 @@ src="https://files.catbox.moe/oyefhv.png"/>
 
 
 
-<a href='https://github.com/yutman11/NONECLAT-XMD.git' target="_blank"><img alt='joel' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
+<a href='https://github.com/yutman11/NONECLAT-XMD/fork' target="_blank"><img alt='joel' src='https://img.shields.io/badge/FORK REPO-h?color=navy&style=for-the-badge&logo=visualstudiocode'/></a></p>
 
 
 
